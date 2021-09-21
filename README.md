@@ -18,8 +18,7 @@ added.
 ### Select Category
 
 This feature is a dummy implementation and can be used to filter the intents
-based on user's choice.(Assumed that categories filter would be an added feature
-from the requirement document i.e. airline, eCommerce)
+based on user's choice.
 
 ### Predefined Conversation Presets
 
