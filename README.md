@@ -1,5 +1,3 @@
-# Ultimate AI Assignment
-
 ## Steps to run the app
 
 `yarn install` - To install all dependencies
